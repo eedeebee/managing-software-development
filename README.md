@@ -1,4 +1,4 @@
-# Managing 
+# Outline #1 - Managing and Leading 
 
 
 - What's in this course?
@@ -164,5 +164,50 @@ Skits, role playing and other scenarios
 - Disclaimers (Bias and Situation) - 
 Here's our backgrouns, you can see some of our biases, but not all; for sure we hv esome you will discover by hearing stories.  You'll hear our examples, mistakes, succes, and what we've learned from them.  Much of this stuff, there isn't one right way or real right answer.  There's always caountr examples and each situation is a bit dirferent - hopefully you can take some of ourexperience and use it as your own it.
 
+---
+
+
+# Outline #2 - 
+
+- What you will learn
+	- Topic summary
+	- Structure of the course
+	- Instructor Biases
+
+- What is the Job of a Manager
+	- Job titles/names
+	- People/personnel
+	- Projects
+	- Technical leadership
+	
+- What is the Job of a Senior Technical Contributor
+	- Job titles/names
+	- People/personnel
+	- Projects
+	- Technical leadership
+
+- Why be a manager 	
+
+- Learning your own skills and weaknesses- 
+
+- Techniques for Staying fresh
+
+- People	
+	- Hiring
+	- Providing Feedback
+	- Managing people out	
+	
+- Project management
+	- Agile, waterfall
+	- Tools
+	- Typical mistakes
+	
+- Development processes
+	- Other roles
+		- Product managers
+		- Designers
+	- 
+
+- Tips and Tricks for managing your own time
 
 	
