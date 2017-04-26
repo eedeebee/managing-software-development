@@ -210,4 +210,82 @@ Here's our backgrouns, you can see some of our biases, but not all; for sure we 
 
 - Tips and Tricks for managing your own time
 
+-------
+
+# Working Remotely - some thoughts on a lecture
+
+- Communication
+	- Remote work means lower bandwidth, higher latency comms.  Remote working is harder then local.
+	- Prioritize, organize and communicate to compensate for these things.
+
+	- Overcommunicate 
+		- Say it in chat, then also in an email.  
+		- Say in a video chat 1-1, then also in an email.  
+		- Say it in a bug report and also in email.  
+		- It's ok.  Hopefully you get the idea.  It's fine to repeat yourself.
+
+	- Affect
+		- Don't assume you know how the other person is feeling.  Ask.
+		
+	- One on ones:
+		- Spend more time in 1-1 with remote folks than your local ones.  
+		- I do more regular 1-1s with my remote staff than I do my local team.
+		- Share context, what's going on, decisions, other ongoings  
+		- share as much as you can when you are in 1-1 or other appropriate meetings.
+- Timezones
+	- Be considerate of timezones and peoples lives.  
+	- Offer to take the time burden challenges, rather than force folks on the other side. 
+- How to organize
+	- General strategies
+		- Separation of concerns wins over staff augmentation.  
+		- Give more responsibility and authority and the like to the remote team.   
+		- Provide well defined "APIs" between teams rather than just asking one remote 			employee to work with another remote team on a highly interactive project.
+
+
+
+----
+
+# Outline #3
+
+- Are you cut out for this?
+	- Not all developers should be managers.
+	- You have to be some level of great to be a manager of software developers.
+	- Need to understand, measure, assess the work.
+	- Why manage? And why not?
+	- Before you manage
+
+
+- Everything is Communication and Communication is everything
+	- Communication theory, bandwidth, latency, signal, and the like
+	- Perception is not perfect
+	- Actions communicate emotion, intent, feeling, caring, smarts, dumbs, etc.
+	
+- Listen more, speak less
+
+- Culture, myth, and ceremony
+	- Need more details
+	
+- Other good places to learn.
+
+- Odd topics
+	- Conflict 
+		- Working Code is 9/10ths of the Law
+		- Works as Coded
+	- Quality
+		- Testing - who does it and how
+
+
+- Time (yourself, your team)
+- Ways to lead
+	- Know more (!)
+	- Be ahead (and work backwards)
+	- Lead by showing people paths
+	- See where things are going
+	- Develop strong instincts and good judgement
+	- Lead by example
+	- Lead by inspiring
+	
+- Enable
+- Lead by exampoe
+
 	
