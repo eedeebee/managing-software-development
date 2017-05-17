@@ -5,7 +5,16 @@
     - What are these jobs and are they for me?
     - Stories
     - Exercises
-    - Instructor's backgrouds biases
+    - Instructor's backgrounds and biases
+        - This is what I do and what I've found works.  Ymmv
+
+- What do manager's do?  
+
+- How can I lead?
+
+- Tips and Tricks
+
+- Communication and meetings
 
 - People
     - You
@@ -14,9 +23,11 @@
         - Your job is to aligh and empower your team
         - You also need to assess and provide feedback
         - The higher you go the more communication and time matter
+        - Managing is not just being a stronger engineer
 
     - Building happy teams
         - Mission, Motivation
+        - Inhereting a team vs hiring a team
         - Two foci - org/bus objectives and individual learning/growth
         - Leading
         - Hiring
@@ -286,6 +297,6 @@ Here's our backgrouns, you can see some of our biases, but not all; for sure we 
 	- Lead by inspiring
 	
 - Enable
-- Lead by exampoe
+- Lead by example
 
 	
