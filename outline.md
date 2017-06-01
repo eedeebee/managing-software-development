@@ -1,4 +1,4 @@
-# Outline #1 - Managing and Leading 
+# Outline #1 - Technical Management and Leadership for Software Peeps 
 
 20 3-5 minute lectures
 
